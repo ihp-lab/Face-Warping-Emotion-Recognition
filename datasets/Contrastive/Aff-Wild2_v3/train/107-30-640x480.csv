@@ -1,0 +1,5 @@
+real_path,fake_path
+../data/Real/Aff-Wild2_v3/107-30-640x480/00001.jpg,../data/Fake/Aff-Wild2_v3/107-30-640x480/00001.png
+../data/Real/Aff-Wild2_v3/107-30-640x480/00017.jpg,../data/Fake/Aff-Wild2_v3/107-30-640x480/00017.png
+../data/Real/Aff-Wild2_v3/107-30-640x480/00033.jpg,../data/Fake/Aff-Wild2_v3/107-30-640x480/00033.png
+../data/Real/Aff-Wild2_v3/107-30-640x480/00049.jpg,../data/Fake/Aff-Wild2_v3/107-30-640x480/00049.png
