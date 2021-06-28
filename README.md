@@ -6,9 +6,9 @@ Source codes for our ACII'21 paper: Contrastive Learning for Domain Transfer in 
 - This code is tested with PyTorch 1.2.0 and Python 3.7.6
 
 ## Datasets
-IDs for face warping with Aff-Wild2 and SEWA are provided in Aff-Wild2-train-id.txt, Aff-Wild2-val-id.txt, and SEWA-id.txt.
-
 Aff-Wild2 and SEWA. All the frames should be cropped and aligned.
+
+IDs for face warping with Aff-Wild2 and SEWA are provided in Aff-Wild2-train-id.txt, Aff-Wild2-val-id.txt, and SEWA-id.txt.
 
 Put these datasets into the folder "data". The directory structure should be modified to match:
 ```
